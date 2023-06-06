@@ -1,0 +1,1 @@
+<h1>nama saya <?= $data['nama']; ?> , pekerjaan saya <?= $data['pekerjaan']; ?>, umur saya <?= $data['umur']; ?></h1>
